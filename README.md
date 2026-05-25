@@ -39,7 +39,7 @@ AIspamDetector/
 ├── app.py
 ├── train_model.py
 ├── spam_model.pkl
-├── vectorizer.pkl
+|
 │
 ├── templates/
 │   └── index.html
